@@ -1,4 +1,4 @@
-package ru.netology.SpringBoot;
+package ru.netology.application;
 
 import org.springframework.boot.SpringApplication;
 
